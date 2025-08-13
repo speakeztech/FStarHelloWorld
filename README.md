@@ -150,7 +150,7 @@ FStarHelloWorld/
 
 ## 🏗️ Integration with Fidelity Framework
 
-This project serves as a proof-of-concept for the [Fidelity Framework](https://github.com/speakez-llc/fidelity), which aims to bring formal verification to production F# development through:
+This project serves as a proof-of-concept for the [Firefly Compiler](https://github.com/speakeztech/firefly), which aims to bring formal verification to production F# development through:
 
 - **Hypergraph-based compilation** preserving proof obligations
 - **MLIR integration** for verified optimization
